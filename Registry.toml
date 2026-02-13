@@ -5,5 +5,6 @@ description = "Registro de pacotes do túnel de vento"
 
 [packages]
 3679571a-6675-409e-9618-c02a2349284e = { name = "DAQHDF5", path = "D/DAQHDF5" }
+39ba7910-02ad-4040-a45c-8568ce053524 = { name = "DAQSimpleScripts", path = "D/DAQSimpleScripts" }
 5fb171b4-8a69-45d3-9db0-72e8edc7ce8b = { name = "BuildingGeometry", path = "B/BuildingGeometry" }
 7b03aed3-9854-4651-ba28-76b88bef8818 = { name = "DAQCore", path = "D/DAQCore" }
