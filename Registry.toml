@@ -5,3 +5,4 @@ description = "Registro de pacotes do túnel de vento"
 
 [packages]
 5fb171b4-8a69-45d3-9db0-72e8edc7ce8b = { name = "BuildingGeometry", path = "B/BuildingGeometry" }
+7b03aed3-9854-4651-ba28-76b88bef8818 = { name = "DAQCore", path = "D/DAQCore" }
