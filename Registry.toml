@@ -4,3 +4,4 @@ repo = "https://github.com/tunelipt/LocalRegistry"
 description = "Registro de pacotes do túnel de vento"
 
 [packages]
+5fb171b4-8a69-45d3-9db0-72e8edc7ce8b = { name = "BuildingGeometry", path = "B/BuildingGeometry" }
