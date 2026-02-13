@@ -8,3 +8,4 @@ description = "Registro de pacotes do túnel de vento"
 39ba7910-02ad-4040-a45c-8568ce053524 = { name = "DAQSimpleScripts", path = "D/DAQSimpleScripts" }
 5fb171b4-8a69-45d3-9db0-72e8edc7ce8b = { name = "BuildingGeometry", path = "B/BuildingGeometry" }
 7b03aed3-9854-4651-ba28-76b88bef8818 = { name = "DAQCore", path = "D/DAQCore" }
+d5de4fbe-640e-469d-b7ad-3c69fc3f3f61 = { name = "Hotwire", path = "H/Hotwire" }
