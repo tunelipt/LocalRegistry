@@ -1,0 +1,6 @@
+name = "tunelipt"
+uuid = "b130439e-0552-48bd-990b-14b094852d73"
+repo = "https://github.com/tunelipt/LocalRegistry"
+description = "Registro de pacotes do túnel de vento"
+
+[packages]
