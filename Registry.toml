@@ -10,3 +10,4 @@ description = "Registro de pacotes do túnel de vento"
 7b03aed3-9854-4651-ba28-76b88bef8818 = { name = "DAQCore", path = "D/DAQCore" }
 c6aa20e7-78fc-4f60-9f81-ec1aa3f236b0 = { name = "RoboSimples", path = "R/RoboSimples" }
 d5de4fbe-640e-469d-b7ad-3c69fc3f3f61 = { name = "Hotwire", path = "H/Hotwire" }
+e2b5b24c-ed1b-4dfa-a7f0-df40ce9b2526 = { name = "DTCInitium", path = "D/DTCInitium" }
