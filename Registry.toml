@@ -4,6 +4,7 @@ repo = "https://github.com/tunelipt/LocalRegistry"
 description = "Registro de pacotes do túnel de vento"
 
 [packages]
+11ef6918-d2a1-4d09-8ff3-a8f27dc47c79 = { name = "WMesa", path = "W/WMesa" }
 3679571a-6675-409e-9618-c02a2349284e = { name = "DAQHDF5", path = "D/DAQHDF5" }
 39ba7910-02ad-4040-a45c-8568ce053524 = { name = "DAQSimpleScripts", path = "D/DAQSimpleScripts" }
 4fb5c015-4516-465f-8a65-a29a7c83b06b = { name = "Scanivalve", path = "S/Scanivalve" }
