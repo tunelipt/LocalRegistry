@@ -1,0 +1,3 @@
+name = "LabDaqConfig"
+uuid = "b1745ee5-fa00-4f0d-bceb-6dd31eba1690"
+repo = "https://github.com/tunelipt/LabDaqConfig.jl"
