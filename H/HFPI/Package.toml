@@ -1,0 +1,3 @@
+name = "HFPI"
+uuid = "ec44f5be-9b93-4b72-881c-2804c432b1e4"
+repo = "https://github.com/tunelipt/HFPI.jl"
