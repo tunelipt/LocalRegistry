@@ -1,0 +1,4 @@
+[0]
+DAQCore = "7b03aed3-9854-4651-ba28-76b88bef8818"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+MQTTClient = "985f35cc-2c3d-4943-b8c1-f0931d5f0959"
