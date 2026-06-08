@@ -1,3 +1,7 @@
 [0]
 LibSerialPort = "0.5.2-0.5"
 julia = "1"
+
+["0.2-0"]
+LabDaqConfig = "0.1.1-0.1"
+TOML = "1.0.3-1"
