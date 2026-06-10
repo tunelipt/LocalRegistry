@@ -1,0 +1,10 @@
+[0]
+DAQCore = "7b03aed3-9854-4651-ba28-76b88bef8818"
+DAQHDF5 = "3679571a-6675-409e-9618-c02a2349284e"
+DAQMQTT = "c2ba2316-99fd-4ef4-be2e-b913c8e7121d"
+DAQSimpleScripts = "39ba7910-02ad-4040-a45c-8568ce053524"
+DAQespmcp = "f3e4bcfe-7d21-43ac-ae28-23b30559a756"
+HDF5 = "f67ccb44-e63f-5c2f-98bd-6dc0ccc4ba2f"
+Hotwire = "d5de4fbe-640e-469d-b7ad-3c69fc3f3f61"
+LabDaqConfig = "b1745ee5-fa00-4f0d-bceb-6dd31eba1690"
+MQTTClient = "985f35cc-2c3d-4943-b8c1-f0931d5f0959"
