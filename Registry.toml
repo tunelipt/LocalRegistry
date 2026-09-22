@@ -16,6 +16,7 @@ description = "Registro de pacotes do túnel de vento"
 b1745ee5-fa00-4f0d-bceb-6dd31eba1690 = { name = "LabDaqConfig", path = "L/LabDaqConfig" }
 c2ba2316-99fd-4ef4-be2e-b913c8e7121d = { name = "DAQMQTT", path = "D/DAQMQTT" }
 c6aa20e7-78fc-4f60-9f81-ec1aa3f236b0 = { name = "RoboSimples", path = "R/RoboSimples" }
+cbf68fe3-1bb0-47a2-b301-24afd92eee08 = { name = "WindTunnelUtils", path = "W/WindTunnelUtils" }
 d5de4fbe-640e-469d-b7ad-3c69fc3f3f61 = { name = "Hotwire", path = "H/Hotwire" }
 e2b5b24c-ed1b-4dfa-a7f0-df40ce9b2526 = { name = "DTCInitium", path = "D/DTCInitium" }
 eba6575b-a069-41f6-8973-4335d659c72d = { name = "IPTVento", path = "I/IPTVento" }
