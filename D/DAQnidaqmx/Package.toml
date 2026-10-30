@@ -1,0 +1,3 @@
+name = "DAQnidaqmx"
+uuid = "6f1d22e2-23ef-4ec5-91ca-7c5877745ee9"
+repo = "https://github.com/tunelipt/DAQnidaqmx.jl"
